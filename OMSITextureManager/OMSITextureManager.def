@@ -1,0 +1,6 @@
+LIBRARY OMSITextureManager.dll
+
+EXPORTS
+PluginStart
+AccessSystemVariable
+PluginFinalize

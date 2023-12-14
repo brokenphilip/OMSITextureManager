@@ -1,0 +1,5 @@
+build/*
+.vs
+OMSITexManSettings/OMSITexManSettings/bin/*
+OMSITexManSettings/OMSITexManSettings/obj/*
+*.aps

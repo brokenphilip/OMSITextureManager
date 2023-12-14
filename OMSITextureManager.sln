@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OMSITextureManager", "OMSITextureManager\OMSITextureManager.vcxproj", "{FE578FEC-B6E6-44DF-9836-3FEA95668C76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE578FEC-B6E6-44DF-9836-3FEA95668C76}.Release|x86.ActiveCfg = Release|Win32
+		{FE578FEC-B6E6-44DF-9836-3FEA95668C76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F61A8AF-CC73-43BE-8DE1-554FC5047C9D}
+	EndGlobalSection
+EndGlobal
